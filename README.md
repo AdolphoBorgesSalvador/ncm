@@ -46,3 +46,4 @@ Este projeto automatiza a extração de informações específicas de arquivos X
   - `openpyxl`
   - `xml.etree.ElementTree` (padrão no Python)
 
+##
